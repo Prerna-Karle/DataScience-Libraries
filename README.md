@@ -1,2 +1,2 @@
-# python-libraries-projects
-Python libraries projects for data analysis, visualization, and machine learning
+# DataScience-Libraries
+A beginner-friendly guide to essential data science libraries in Python — NumPy, Pandas, Matplotlib, and Seaborn — with hands-on examples and clear explanations.
